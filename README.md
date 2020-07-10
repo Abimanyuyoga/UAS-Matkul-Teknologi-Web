@@ -12,11 +12,11 @@ Nama : Abimanyu Yoga Dito Pratama / Nim : 311810739 / Kelas : TI.18.A.3
 
 Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
-**1.** Halaman HTML dan CSS berdasarkan mockup desain yang telah anda buat pada soal uts.**
+**1.** Halaman HTML dan CSS berdasarkan mockup desain yang telah anda buat pada soal uts.
 
-**2.** Fungsi pencarian pada list datanya.**
+**2.** Fungsi pencarian pada list datanya.
 
-**3.** Fungsi paging pada list datanya.**
+**3.** Fungsi paging pada list datanya.
 
 
 **Tema Desain Web:**
