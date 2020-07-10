@@ -42,7 +42,7 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 ![jawaban uts no 1](https://user-images.githubusercontent.com/46512870/80675984-f589a480-8adf-11ea-8568-2013731c13c2.png)
 
-**Halaman HTML**
+**HALAMAN HTML**
 
 ![HTML1](https://user-images.githubusercontent.com/46512870/80676780-b2c8cc00-8ae1-11ea-98b5-af80d00f4c98.png)
 
@@ -50,7 +50,7 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 ![HTML3](https://user-images.githubusercontent.com/46512870/80676795-b8bead00-8ae1-11ea-9e62-70843c561756.png)
 
-**Halaman CSS**
+**HALAMAN CSS**
 
 ![CSS1](https://user-images.githubusercontent.com/46512870/80677869-f3294980-8ae3-11ea-8f1e-a8e1d7b6667f.png)
 
