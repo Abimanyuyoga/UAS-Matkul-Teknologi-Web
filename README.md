@@ -42,7 +42,7 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 ![jawaban uts no 1](https://user-images.githubusercontent.com/46512870/80675984-f589a480-8adf-11ea-8568-2013731c13c2.png)
 
-**HALAMAN HTML**
+**HALAMAN HTML WEB COMPANY PROFILE**
 
 ![HTML1](https://user-images.githubusercontent.com/46512870/80676780-b2c8cc00-8ae1-11ea-98b5-af80d00f4c98.png)
 
@@ -50,7 +50,7 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 ![HTML3](https://user-images.githubusercontent.com/46512870/80676795-b8bead00-8ae1-11ea-9e62-70843c561756.png)
 
-**HALAMAN CSS**
+**HALAMAN CSS WEB COMPANY PROFILE**
 
 ![CSS1](https://user-images.githubusercontent.com/46512870/80677869-f3294980-8ae3-11ea-8f1e-a8e1d7b6667f.png)
 
@@ -69,3 +69,8 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 **HASIL HTML DAN CSS WEB COMPANY PROFILE**
 
 ![WebCompanyProfil](https://user-images.githubusercontent.com/46512870/80679407-04278a00-8ae7-11ea-93bc-5fa5d26bbc7f.png)
+
+# MEMBUAT APLIKASI CRUD SEDERHANA
+
+**MEMBUAT FUNGSI PENCARIAN PADA LIST DATA NYA**
+
