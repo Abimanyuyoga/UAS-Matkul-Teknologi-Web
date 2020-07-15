@@ -1,11 +1,11 @@
 # UAS-Matkul-Teknologi-Web
 Nama : Abimanyu Yoga Dito Pratama / Nim : 311810739 / Kelas : TI.18.A.3
 
-**LINK WEB COMPANY PROFILE http://mridn.epizy.com/**
-
 **BISMILLAHIRROHMANIRROHIM**
 
 **ASSALAMUALAIKUM WR. WB**
+
+**LINK WEB COMPANY PROFILE http://mridn.epizy.com/**
 
 **Nama : Abimanyu Yoga Dito Pratama**
 
