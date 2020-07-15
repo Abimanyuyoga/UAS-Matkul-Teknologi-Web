@@ -1,6 +1,14 @@
 # UAS-Matkul-Teknologi-Web
 Nama : Abimanyu Yoga Dito Pratama / Nim : 311810739 / Kelas : TI.18.A.3
 
+# LINK WEB COMPANY PROFILE**
+
+**http://mridn.epizy.com/**
+
+**BISMILLAHIRROHMANIRROHIM**
+
+**ASSALAMUALAIKUM WR. WB**
+
 **Nama : Abimanyu Yoga Dito Pratama**
 
 **Nim : 311810739**
@@ -113,3 +121,14 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 **HASIL WEB YANG SUDAH DI UNGGAH/UPLOAD DI WEB HOSTING**
 
+**HALAMAN WEB APLIKASI CRUD**
+
+![HASIL WEB HOSTING1](https://user-images.githubusercontent.com/46512870/87496201-522b4300-c67d-11ea-9641-b1b469368bef.png)
+
+**HALAMAN WEB COMPANY PROFILE**
+
+![Hasil WEB HOSTING2](https://user-images.githubusercontent.com/46512870/87496209-55263380-c67d-11ea-97fd-4d90fed89404.png)
+
+**SEKIAN DAN TERIMAKASIH. KURANG LEBIH NYA SAYA MOHON MAAF.**
+
+**WASSALAMUALAIKUM WR. WB**
