@@ -7,6 +7,7 @@ Nama : Abimanyu Yoga Dito Pratama / Nim : 311810739 / Kelas : TI.18.A.3
 
 **Kelas : TI.18.A.3**
 
+**GANJIL**
 
 **Soal:**
 
@@ -72,5 +73,43 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 # MEMBUAT APLIKASI CRUD SEDERHANA
 
-**MEMBUAT FUNGSI PENCARIAN PADA LIST DATA NYA**
+**MEMBUAT FUNGSI PENCARIAN PADA LIST DATA NYA DAN FUNGSI PAGING PADA LIST DATANYA**
+
+**index.php**
+
+![indexphp1](https://user-images.githubusercontent.com/46512870/87494814-29557e80-c67a-11ea-8bd5-98e6fb3d623f.png)
+
+![indexphp2](https://user-images.githubusercontent.com/46512870/87494828-2fe3f600-c67a-11ea-859a-e3ffde6feeb4.png)
+
+![indexphp3](https://user-images.githubusercontent.com/46512870/87494833-34101380-c67a-11ea-82c7-67e4727ae8a8.png)
+
+![indexphp4](https://user-images.githubusercontent.com/46512870/87494843-38d4c780-c67a-11ea-94d2-b10ed67acdc7.png)
+
+![indexphp5](https://user-images.githubusercontent.com/46512870/87494856-3e321200-c67a-11ea-9535-9f4129f36e7d.png)
+
+**koneksi.php**
+
+![koneksiphp](https://user-images.githubusercontent.com/46512870/87494867-41c59900-c67a-11ea-974e-a673780ba348.png)
+
+**MEMBUAT DATABASE**
+
+![Screenshot (8)](https://user-images.githubusercontent.com/46512870/87494869-438f5c80-c67a-11ea-8c0c-37df164e11c7.png)
+
+![Screenshot (9)](https://user-images.githubusercontent.com/46512870/87494876-47bb7a00-c67a-11ea-81d1-ad5c00fecd90.png)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/46512870/87494894-52760f00-c67a-11ea-8c99-d76f8fb8934e.png)
+
+![Screenshot (10)](https://user-images.githubusercontent.com/46512870/87494884-4c802e00-c67a-11ea-9b2e-84a598c74ad6.png)
+
+**HASIL PEMBUATAN APLIKASI CRUD SEDERHANA**
+
+![Tampilan CRUD](https://user-images.githubusercontent.com/46512870/87494788-1d69bc80-c67a-11ea-87b0-55478fc7e7de.png)
+
+# MENGUNGGAH WEB KE WEB HOSTING
+
+**UNGGAH DATA WEB KE WEB HOSTING**
+
+![Upload data ke web hosting](https://user-images.githubusercontent.com/46512870/87494800-2490ca80-c67a-11ea-934d-e5ca41c61b53.png)
+
+**HASIL WEB YANG SUDAH DI UNGGAH/UPLOAD DI WEB HOSTING**
 
