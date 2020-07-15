@@ -32,7 +32,7 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 **1.** Untuk **NIM** dengan akhiran **Ganjil** adalah desain web company profile atau portofolio.
 
-**2,** Untuk **NIM** dengan akhiran **Genap** adalah desain dashboard admin web.
+**2.** Untuk **NIM** dengan akhiran **Genap** adalah desain dashboard admin web.
 
 
 **Kerjakan**
